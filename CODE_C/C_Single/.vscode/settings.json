@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "thread": "cpp",
+        "string": "cpp",
+        "winsock2.h": "c",
+        "stdlib.h": "c",
+        "cstdlib": "c"
+    }
+}

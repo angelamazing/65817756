@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "thread": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "stdexcept": "cpp",
+        "sstream": "cpp",
+        "atomic": "cpp",
+        "chrono": "cpp"
+    }
+}
